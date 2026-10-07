@@ -3,7 +3,7 @@
 An ATS resume scorer that matches your resume against a job description, highlighting matched and missing keywords.
 
 ## Live Demo
-Not deployed yet
+https://resu-match.netlify.app
 
 ## Screenshot
 ![ResuMatch screenshot](screenshot.png)
